@@ -1,5 +1,5 @@
 /**
- * 单链表.
+ * 单链表
  */
 struct Node{
     int element;   //链表基本单位的元素
